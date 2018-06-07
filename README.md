@@ -15,8 +15,8 @@ download the pre-trained model:
 wget http://www.jbox.dk/sling/sempar.flow 
 ``` 
 
-## Reference: 
-[SLING: A framework for frame semantic parsing](https://arxiv.org/pdf/1710.07032.pdf)  
-
 ## Performance
 ![image](https://github.com/kevinhkliu/Google_sling/blob/master/pic/performance.PNG)
+
+## Reference: 
+[SLING: A framework for frame semantic parsing](https://arxiv.org/pdf/1710.07032.pdf)  
